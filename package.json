@@ -3,15 +3,15 @@
 	"version": "0.1.0",
 	"description": "ESLint shareable config",
 	"license": "MIT",
-	"repository": "josa42/eslint-config",
+	"repository": "josa42/eslint-config-josa",
 	"author": "Josa Gesell <josa@gesell.me>",
 	"engines": {
 		"node": ">=10"
 	},
-	"files": [
-		"index.js",
-		"browser.js"
+  "files": [
+    "**/*.js"
 	],
+
 	"keywords": [
 		"eslintconfig"
 	],
